@@ -16,11 +16,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
+Comencé en el mundo de la programación de manera autodidacta hace aproximadamente 1 año, hace 4 meses comencé a estudiar en el BootCamp de Henry
+Mi experiencia en el bootcamp que me gradué culminó con un Proyecto Individual y con un proyecto grupal,
+donde aprendí una amplia gama de tecnologías como Next, Express, React, Node,Redux,CSS, metodologías ágiles, entre otras.
 
 <br><br>
 
