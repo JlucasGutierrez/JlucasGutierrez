@@ -59,13 +59,13 @@ donde aprendí una amplia gama de tecnologías como Next, Express, React, Node,R
 
 ## Connect with me  
 <div align="center">
-<a href="juangutierrezutnfrt@gmail.com"><img img src=https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white alt="Gmail" style="margin-bottom: 5px"/></a>
 <a href="https://www.linkedin.com/in/juan-lucas-guti%C3%A9rrez/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/JlucasGutierrez" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+<h3>Gmail : juangutierrezutnfrt@gmail.com </h3>
 </div>  
   
 
